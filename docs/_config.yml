@@ -28,7 +28,7 @@ twitter_username: Chamkoriyski
 github_username:  Hombre2014
 
 # Build settings
-theme: cayman
+theme: minima
 plugins:
   - jekyll-feed
 
