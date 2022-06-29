@@ -28,7 +28,7 @@ twitter_username: Chamkoriyski
 github_username:  Hombre2014
 
 # Build settings
-remote_theme: benbalter/retlab
+theme: cayman
 plugins:
   - jekyll-feed
 
